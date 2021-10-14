@@ -5,10 +5,10 @@ public class ImprimirAnimal {
 	public static void main(String[] args) {
 		
 		
-		TestaAnimal t = new TestaAnimal();
+		Testaanimal t = new Testaanimal();
 		
-		t.fazerAnimalComer(new Cachorro());
-		t.fazerAnimalComer(new Tigre());
+		t.FazerAnimalComer(new Cachorro());
+		t.FazerAnimalComer(new Tigre());
 	
 
 	}

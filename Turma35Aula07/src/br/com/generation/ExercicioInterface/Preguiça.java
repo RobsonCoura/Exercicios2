@@ -1,4 +1,4 @@
-package br.com.generation.Exerciciopolimorfismo;
+package br.com.generation.ExercicioInterface;
 
 public class Preguiça implements Animal{
 
